@@ -1,0 +1,13 @@
+body{font-family: 'Montserrat', sans-serif;
+background-color: rgb(171, 137, 202);
+}
+   
+p {font-family: 'Bonheur Royale', cursive;
+    font-size: 25px;
+}
+a{
+    font-family: 'Roboto Slab', serif;
+    font-size: 19px;
+
+}
+img{width:20%; height:20%;}
